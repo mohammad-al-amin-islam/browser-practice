@@ -16,3 +16,8 @@ if(getOpinion){
 } */
 
 //৪. Cookies কি জিনিস। এইটা দিয়ে কি করা হয়। সেটা ইংরেজিতে ৫ থেকে ৭ লাইনের মধ্যে লিখে ফেলো। 
+//cookies are data that store in a small place in my computer.usually browser forget everything and it load again its become new again. to solve this problem cookie was invented.it store user info. next time if user came it can remember his her name.cookies are same into name value pair. if we want to see all cookie we have to click document.cookie
+
+//৫. local storage আর session storage এর মধ্যে তিনটা পার্থক্য লিখে ফেলো। ইংরেজিতে। (নিজের মতো করে লিখবে )৫. local storage আর session storage এর মধ্যে তিনটা পার্থক্য লিখে ফেলো। ইংরেজিতে। (নিজের মতো করে লিখবে )৫. local storage আর session storage এর মধ্যে তিনটা পার্থক্য লিখে ফেলো। ইংরেজিতে। (নিজের মতো করে লিখবে )৫. local storage আর session storage এর মধ্যে তিনটা পার্থক্য লিখে ফেলো। ইংরেজিতে। (নিজের মতো করে লিখবে )
+//the difference between local storage and session storage is given below firstly local storage -- local storage are permanent it can be deleted via js or manually.there is no transfer data.the storage capacity is 5/10mb and the session storage is not permanent it gone when the tab is closed.there is no transfer data to server .the storage is 5 mb
+
